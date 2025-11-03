@@ -61,7 +61,8 @@ User → Yahoo Finance API → Data Extraction → ARIMA Model → Forecast Gene
 ## 🖼️ Output
 The graph below shows the predicted trend (red line) alongside actual Google stock data.
 
-![Output Plot](images/output_plot.png)
+![Output Plot]<img width="1251" height="650" alt="Output_arima" src="https://github.com/user-attachments/assets/ad1765ce-bdff-409a-8d76-c468cbbd0ba1" />
+
 
 ---
 

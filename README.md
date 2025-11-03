@@ -106,4 +106,4 @@ ARIMA offers an interpretable and efficient way to predict short-term stock move
 
 ---
 **Author:** Padmasree Rajavel  
-📅 *Created in 2025*
+**Check my linked in :** https://www.linkedin.com/in/padma-sree-rajavel-661400329/

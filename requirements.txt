@@ -1,4 +1,9 @@
 yfinance
-matplotlib
 pandas
+numpy
+matplotlib
 statsmodels
+scikit-learn
+joblib
+streamlit
+pmdarima
